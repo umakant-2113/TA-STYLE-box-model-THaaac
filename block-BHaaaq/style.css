@@ -1,0 +1,51 @@
+.article-1 {
+  height: 80px;
+  width: 80px;
+  border: 5px solid rgb(74, 74, 74);
+  background-color: rgb(179, 61, 37);
+  margin: 20px;
+}
+.article-2 {
+  height: 80px;
+  width: 80px;
+  border: 5px double rgb(74, 74, 74);
+  background-color: rgb(179, 61, 37);
+  display: inline-block;
+  margin: 20px;
+}
+.article-3 {
+  height: 80px;
+  width: 80px;
+  border: 5px dashed rgb(74, 74, 74);
+  background-color: rgb(179, 61, 37);
+  display: inline-block;
+  margin: 20px;
+}
+.article-4 {
+  height: 80px;
+  width: 80px;
+  border: 5px dotted rgb(74, 74, 74);
+  background-color: rgb(179, 61, 37);
+  display: inline-block;
+  margin: 20px;
+}
+.article-5 {
+  height: 90px;
+  width: 90px;
+  /* border: 5px do rgb(74, 74, 74); */
+  background-color: rgb(179, 61, 37);
+  display: inline-block;
+  margin: 20px;
+}
+.article-p {
+  height: 400px;
+  width: 500px;
+  outline: 20px solid rgb(130, 59, 128);
+  border-top: 10px solid blue;
+  border-left: 10px solid gray;
+  border-right: 10px solid yellow;
+  border-bottom: 10px solid green;
+  padding: 20px;
+  margin: 40px;
+  background-color: rgb(179, 61, 37);
+}
