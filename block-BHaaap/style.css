@@ -1,0 +1,49 @@
+.header {
+  border: 1px solid red;
+  background-color: #d18c18;
+  padding: 10px;
+  text-align: center;
+  text-transform: capitalize;
+}
+.main {
+  padding-left: 33%;
+}
+.article {
+  height: 400px;
+  width: 600px;
+  border: 2px dotted blue;
+  background-color: #d1d631;
+  border-radius: 10px;
+  font-size: 16px;
+  padding: 20px;
+}
+
+.img {
+  height: 400px;
+  width: 600px;
+  border-radius: 20px;
+  border: 2px solid red;
+}
+.div {
+  height: 500px;
+  width: 500px;
+  border: 2px solid blue;
+  background-color: red;
+  border-radius: 50%;
+}
+.footer {
+  background-color: #d18c18;
+}
+.footer-tag {
+  font-size: 24px;
+
+  text-decoration: none;
+  padding: 5px;
+  margin: 2px;
+  background-color: #d18c18;
+}
+.button {
+  font-size: 24px;
+  background: #d1d631;
+  border: 3px dashed blue;
+}
